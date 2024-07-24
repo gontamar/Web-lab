@@ -1,4 +1,4 @@
-#10 a date
+#a date
 <!DOCTYPE html>
    <html>
    <head>
@@ -12,7 +12,7 @@
    </body>
 </html>
 
-#10 b prime check 
+#b prime check 
 <!DOCTYPE html>
 <html>
    <head>
